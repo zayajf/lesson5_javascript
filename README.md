@@ -13,8 +13,7 @@ Web Application Development
 (In your own words, briefly describe the assignment.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/zayajf/lesson5_javascript
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to deeply nest if statements for mathmatical operations.)
