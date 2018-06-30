@@ -10,7 +10,7 @@ Web Application Development
 (Jonathon Zayas)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Find out your tax bracket for 2018
 
 ### View Project:
 https://github.com/zayajf/lesson5_javascript
