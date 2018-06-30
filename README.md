@@ -4,10 +4,10 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(06/29/18)
 
 ### Student Name:  
-(First and Last Name)
+(Jonathon Zayas)
 
 ### Project Description:
 (In your own words, briefly describe the assignment.)
@@ -17,7 +17,7 @@ Web Application Development
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to deeply nest if statements for mathmatical operations.)
+2. (I learned how to use a clear function succesfully.)
+3. (I am learning more about elementID's.)
 
