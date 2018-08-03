@@ -13,7 +13,7 @@ Web Application Development
 Find out your tax bracket for 2018
 
 ### View Project:
-https://github.com/zayajf/lesson5_javascript
+https://zayajf.github.io/lesson5_javascript/
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to deeply nest if statements for mathmatical operations.)
